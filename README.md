@@ -1,2 +1,1 @@
-# yify
-Welcome to YIFY Movies. Here you will be able to browse and watch YIFY Movies online for free in excellent 720p and 1080p quality with the English subtitle. Watch Free Movies Online and Download the latest movies without registration at YIFYMovies.is.
+Welcome to <a href="https://yifymovies.is/tag/yify-movies" target="_blank">YIFY Movies</a>. Here you will be able to browse and watch <a href="https://yifymovies.is/" target="_blank">YIFY</a> Movies online for free in excellent 720p and 1080p quality with the English subtitle. Watch <a href="https://yifymovies.is/tag/free-movies" target="_blank">Free Movies</a> Online and Download the latest movies without registration at YIFYMovies.is.
